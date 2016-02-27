@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_0f7c6362951a7a3973f55083f30a21d65ea04365.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_ced999a0bc065cf04a9cdd105da225e1060ad357.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_f310f9afb909e6e61fb1c64f0a6c83ea87d41076.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_cddb8be829a86e34d9d9ac6bb07d425e7bd7f478.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_985f8910ce9fdceea67152d8e8771fe9c7d4b987.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_076182b0740acc69d562c6fe42bc23379729e134.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.bignerdranch.android\expandablerecyclerview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f5eeb4583102dd6771ab71bc8f0c6965548dd3e0">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.bignerdranch.android-expandablerecyclerview-1.0.3_b45564e6524ae0ff1d2a951956df95da0af58467.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\BytePad\smartloginlibrary-v0.5beta\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6524f224d392d584ec07917574160531d08a989c">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\BytePad-smartloginlibrary-v0.5beta-unspecified_74ee6e5c3fa6eaee827bf5ec24068a02ee680e59.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_7e39d654b65a1b57fb8ba7e4f6a0ad11d17fda70.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_72eaae456eb7efdbd12aa4cab18aae914e39896e.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_194f6fb6a8fddc5ea3a522edbe26893627a803d6.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_a142d6e40d90ea8ef460023741c889cef28b167e.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.baoyz.swipemenulistview-library-1.3.0_507d56cb3fb95bd13229cad858a2f94fad414e88.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.astuetz-pagerslidingtabstrip-1.0.1_5b0e9ab1244e2fad711bc830b0dc1cdc00fcf5c1.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_bb24f392e8c4aadbdbc72d3abc7c9753da5c55ca.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_841bbc7ec9c456535ac7bd2149fceaa7450ee1e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_44388d257e338b87e676a8c96c4da42c4765a6d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\com.octo.android.robospice\robospice\1.4.14\fffe1563473feb2f956608554d3e97ad805914a7\robospice-1.4.14.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fffe1563473feb2f956608554d3e97ad805914a7">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\robospice-1.4.14_0134067443879fb00ef56dc74db551214c8d2a42.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_25112023917a0f7ec680c9a037ec276180478a30.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.0.1_446e42070e225511451c43c0e2231a27096f4f1d.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_519071d8eecdfcdafd3980d754aa7a4f13270ce2.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_f850b018af156a68e0003792aba51435a7d42e77.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2_ae08bd59b7d6b45d15a58ed3a09ccb165da49919.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_5a8aec93921618b49963cce46ce1417e2da4feb8.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_ceb925963cc6a58f3eb046251618211cd9c9d8b9.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_a61f628d558f103659ddde02e4e161bb89733d10.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_5288c0665b7a5a3a72ddb83eda811f657c093ad7.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_ec5113fab94a14e2858ef93eab24015ce7304225.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_0744a1fda7412f84c70094814096f93c15182984.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_a1d095fcabc2ec5e6702d873afbc994a42118c62.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_c2545972b48b9088b119e599b1ae51c7ee6a57b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_fdbb94015117a535d382e8a39a4cb8cf9adc74b7.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_b572133125c53342da12d7202654aff4624e4f26.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_fedbc01a2a584d8c666ddbe2467f0afc204fc9d4.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_6337087300f03bc8c34fa049775ccacaa07fe790.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_ebfa915de0ebc943563dd633c1f7286ac74fd8af.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\gson-2.4_58d62bc7b2be46e64f6689e8a4e27ccabb1fe769.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_acc2f0ca905d58dcb9f2868311e6122d05de787d.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\com.octo.android.robospice\robospice-retrofit\1.4.14\c5e93129d2df923119f8ee659b3723dd0d631d1d\robospice-retrofit-1.4.14.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5e93129d2df923119f8ee659b3723dd0d631d1d">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\robospice-retrofit-1.4.14_58e53b7c77b2fc55f20a94be1efac03211f4e819.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.6.1\efb0a36546aa8857ab8df358b106c1817e03cbee\retrofit-1.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="efb0a36546aa8857ab8df358b106c1817e03cbee">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\retrofit-1.6.1_640567d9f6d0fc523fa2b58b1a68b87b0ffee153.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_2deee1753ab4be3231cc6d7377f30441e9239e6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\com.octo.android.robospice\robospice-cache\1.4.14\1a13bea0b3ae105c44cb6be7fc76b6d36098faf5\robospice-cache-1.4.14.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1a13bea0b3ae105c44cb6be7fc76b6d36098faf5">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\robospice-cache-1.4.14_a3ea9cf858c4f783269b1d15971c0969fbed117c.jar" />
+    </item>
+    <item
+        jar="C:\Users\AKG002\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-io\1.3.2\b6dde38349ba9bb5e6ea6320531eae969985dae5\commons-io-1.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\commons-io-1.3.2_dfc0e297e7f0b5f8a2ca8fd1ddf39751a69efdf3.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_eb899a854cd99c2021598e2420ddb8fdfc3428b6.jar" />
+    </item>
+    <item
+        jar="H:\AndroidStudioProjects\BytePad\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="H:\AndroidStudioProjects\BytePad\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_a66a48900e67e1fb4df7789a0834ad0246bc5fe5.jar" />
+    </item>
+
+</items>
